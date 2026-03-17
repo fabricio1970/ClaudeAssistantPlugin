@@ -2,10 +2,10 @@
 Claude Assistant IDE Plugin - integração de IA direto no Delphi.
 Ficou legal? Fica com a gente!"
 
-1- Vá em config  e entre com  a:
-2- API Key: *************************
-3- Caminho do Curl:  \curl\bin\curl.exe
-4- Modelo:  ------
+1. Vá em config  e entre com  a:
+2. API Key: *************************
+3. Caminho do Curl:  \curl\bin\curl.exe
+4. Modelo:  ------
 
 
 
